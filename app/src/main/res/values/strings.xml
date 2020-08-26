@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">N0-DUES</string>
+
+    <string name="add_due">ADD DUE</string>
+    <string name="chetan_patil">CHETAN PATIL</string>
+    <string name="android_batch_8_uttara_info_solutions_bangalore">ANDROID BATCH-8 UTTARA INFO SOLUTIONS BANGALORE</string>
+    <string name="find_me_on">FIND ME ON</string>
+    <string name="_91_9742179809">+91-9742179809</string>
+    <string name="chetu_is_gmail_com">chetu.is@gmail.com</string>
+    <string name="select_name_from_your_contact_either_or_add_by_your_own">SELECT NAME EITHER FROM YOUR CONTACT FROM SPINNER GIVEN BESIDE NAME INPUT-BOX OR ADD IT BY YOUR OWN</string>
+    <string name="due_amount_inr">DUE AMOUNT (INR)</string>
+    <string name="name_here">NAME HERE</string>
+    <string name="select_name">SELECT NAME</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="new_name_here">NEW NAME </string>
+    <string name="new_due_amount">NEW DUE AMOUNT</string>
+    <string name="make_changes">MAKE CHANGES</string>
+    <string name="chetan">CHETAN</string>
+    <string name="enter_new_details_amp_click_on_make_changes_button"><![CDATA[ENTER NEW DETAILS AND SUBMIT]]></string>
+    <string-array name="del2SA">
+        <item>NO</item>
+        <item>MORE</item>
+        <item>DUES</item>
+        <item>TO</item>
+        <item>DELETE</item>
+        <item>PLEASE</item>
+        <item>GO</item>
+        <item>BACK</item>
+        <item>THANK YOU :)</item>
+    </string-array>
+
+    <string-array name="ma2NDOptions">
+        <item>ALL DUES</item>
+        <item>ADD A NEW DUE</item>
+        <item>DELETE A DUE</item>
+        <item>EDIT A DUE</item>
+        <item>CREDITS</item>
+    </string-array>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+
+</resources>
